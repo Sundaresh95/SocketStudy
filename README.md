@@ -107,6 +107,7 @@ print("Server says:", data)
 client_socket.close()
 ```
 ## OUTPUT:
+<img width="1839" height="169" alt="image" src="https://github.com/user-attachments/assets/eda3fa0e-9021-486f-98fa-4174a569c447" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
